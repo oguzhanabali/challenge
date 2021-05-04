@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{84847DD5-65A0-40C8-A6F9-00FF44235C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Service", "Challenge.Service\Challenge.Service.csproj", "{4B8BCD23-CA27-4614-882A-E57A03F6FABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84847DD5-65A0-40C8-A6F9-00FF44235C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84847DD5-65A0-40C8-A6F9-00FF44235C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84847DD5-65A0-40C8-A6F9-00FF44235C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84847DD5-65A0-40C8-A6F9-00FF44235C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8BCD23-CA27-4614-882A-E57A03F6FABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8BCD23-CA27-4614-882A-E57A03F6FABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8BCD23-CA27-4614-882A-E57A03F6FABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8BCD23-CA27-4614-882A-E57A03F6FABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
